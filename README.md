@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+I'm+orphcvs;Application+%26+Web+Dev;Currently+building+educational+tools&font=Consolas%20Code&width=520&pause=1000&center=false&vCenter=true&random=false&duration=1500)](https://git.io/typing-svg)
 
-<p align="left">languages and tools i am currently learning:</p>
+<p align="left" style="font-family: 'Consolas', 'Courier New', monospace; font-size: 16px;">languages and tools i am currently learning:</p>
 
 <!-- Row 1  -->
 <p align="left">
@@ -32,4 +32,5 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img style="display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orphcvs&label=Profile%20views&color=0e75b6&style=flat" alt="orphcvs" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=orphcvs&label=Profile%20views&color=0e75b6&style=flat" alt="orphcvs" /></p>
+
